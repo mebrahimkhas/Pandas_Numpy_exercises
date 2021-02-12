@@ -39,4 +39,5 @@ This repo covers:
 - [Introduction to Numpy](7_numpy.ipynb)
 - [Practice Numpy functionalities](8_numpy_practice.ipynb)
 - [One last exercise :) ](9_pandas_practice_4.ipynb)
+- [WOrking with large data](10_vaex.ipynb)
 
