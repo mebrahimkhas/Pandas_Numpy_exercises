@@ -30,14 +30,15 @@ At the end of this repo you should
 
 This repo covers:
 
-- [Introduction to Pandas](1_pandas.ipynb)
-- [Practice Pandas functionalities](2_pandas_practice_1.ipynb)
-- [Introduction to Pandas visualization](3_pandas_visualization.ipynb)
-- [Practice Pandas functionalities and visualizations](4_pandas_practice_2.ipynb)
-- [More Pandas practice and EDA](5_pandas_practice_3.ipynb)
-- [Combining DataFrames](6_combine_dataframes.ipynb)
-- [Introduction to Numpy](7_numpy.ipynb)
-- [Practice Numpy functionalities](8_numpy_practice.ipynb)
-- [One last exercise :) ](9_pandas_practice_4.ipynb)
-- [WOrking with large data](10_vaex.ipynb)
+- [Introduction to Pandas](01_pandas.ipynb)
+- [Practice Pandas functionalities](02_pandas_practice_1.ipynb)
+- [Introduction to Pandas visualization](03_pandas_visualization.ipynb)
+- [Practice Pandas functionalities and visualizations](04_pandas_practice_2.ipynb)
+- [More Pandas practice and EDA](05_pandas_practice_3.ipynb)
+- [Combining DataFrames](06_combine_dataframes.ipynb)
+- [Introduction to Numpy](07_numpy.ipynb)
+- [Practice Numpy functionalities](08_numpy_practice.ipynb)
+- [One last exercise :) ](09_pandas_practice_4.ipynb)
+- [Working with large data](10_vaex.ipynb)
+- [Dealing with date and time data](11_datetime.ipynb)
 
