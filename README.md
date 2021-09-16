@@ -13,6 +13,7 @@ Please make sure you have **forked** the repo and set up a new virtual environme
 For this purpose you use following commands:
 
 ```Bash
+pyenv local 3.9.4
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
