@@ -40,6 +40,7 @@ This repo covers:
 - [Introduction to Numpy](07_numpy.ipynb)
 - [Practice Numpy functionalities](08_numpy_practice.ipynb)
 - [One last exercise :) ](09_pandas_practice_4.ipynb)
-- [Working with large data](10_vaex.ipynb)
-- [Dealing with date and time data](11_datetime.ipynb)
+- [Dealing with date and time data](10_datetime.ipynb)
+- [Working with large data](11_vaex_optional.ipynb)
+
 
